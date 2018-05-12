@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8708'
     url: http://www.gutenberg.org/2009/agents/8708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37194#Bell-s-Cathedrals--The-Cathedral-Church-of-ManchesterCollegiate-Buildings-now-known-as-Chetha_
 gutenberg_issued: '2011-08-24'
 gutenberg_type: Text
 identifiers:
